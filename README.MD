@@ -6,5 +6,4 @@
     - **Express**
     - **JWT**
     - **Google Firebase**
-    - **Elemento1**
-    - **Elemento 2**
+
