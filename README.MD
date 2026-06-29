@@ -2,8 +2,8 @@
 
 ## Tecnologías utilizadas:
 
-    - **NodeJs**
-    - **Express**
-    - **JWT**
-    - **Google Firebase**
+    - __NodeJs__
+    - __Express__
+    - __JWT__
+    - __Google Firebase__
 
